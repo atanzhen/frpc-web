@@ -1,5 +1,5 @@
 # FRP可视化Web管理面板
-### FRP Client Manager FRP客户端图形界面管理器
+### FRP Client Manager FRP客户端图形界面管面板
 ### 项目主页 https://atusu.cn/frp/
 ### 一键部署脚本 bash <(curl -sSL atusu.cn/frp/install_frpc.sh)
 
