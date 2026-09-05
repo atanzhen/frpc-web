@@ -13,6 +13,6 @@
 
 ##### 如果不是本人网站也不是这几个名称的商业网购平台提供服务的均非本人出现任何后果自负。因已发现有人在咸鱼倒卖所以提示一下自行甄别
 
-##### 本项目与 [fatedier/frp](https://github.com/fatedier/frp) 项目相互独立， frp 的发布与许可归原项目所有；frpc-web 仅作为客户端面板管理。
+##### 本项目与 [fatedier/frp](https://github.com/fatedier/frp) 项目相互独立， frp 的发布与许可归原项目所有；frpc-web 仅作为客户端Web管理面板。
 
 ##### 相关项目 - [MoonProxy / 月神代理](https://github.com/MoonProxyHQ/moonproxy-desktop) — 面向非技术用户的跨平台 FRP 桌面客户端（Tauri v2 + Vue 3 + Rust），可视化配置 + 实时流量监控 + frpc 引擎自更新
